@@ -5,4 +5,4 @@ Flatiron Map is an interactive map of Flatiron School's Manhattan Campus written
 ## Usage 
 When starting Flatiron map make sure you start the backend on port 3000. 
 
-*(Backend)[https://github.com/ahkian/flatiron-map-backend]*
+*Backend: [https://github.com/ahkian/flatiron-map-backend]*
