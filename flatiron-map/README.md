@@ -8,7 +8,7 @@ Flatiron Map is an interactive map of Flatiron School's Manhattan Campus written
 - Ruby on Rails https://rubyonrails.org/
 
 ### Installation
-Clone this repo and the backend which can be found (here)[https://github.com/ahkian/flatiron-map-backend]. When starting Flatiron map make sure you start the backend on port 3000. For the frontend run 'npm install && npm start' in your terminal.
+Clone this repo and the backend which can be found [here](https://github.com/ahkian/flatiron-map-backend). When starting Flatiron map make sure you start the backend on port 3000. For the frontend run 'npm install && npm start' in your terminal.
 
 ### License
 Copyright 2018 Daniel Brazel, Arthur Lurye
