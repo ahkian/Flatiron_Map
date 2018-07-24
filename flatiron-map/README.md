@@ -3,9 +3,9 @@
 Flatiron Map is an interactive map of Flatiron School's Manhattan Campus written using React, Leaflet (A javascript library for making custom maps) and Ruby on Rails. Users can click on rooms to see their descriptions. For rooms that can be scheduled users can see what events are scheduled in the room and schedule their own.
 
 ### Built With
-- (React)[https://reactjs.org/]
-- (Leaflet)[https://leafletjs.com/]
-- (Ruby on Rails)[https://rubyonrails.org/]
+- React https://reactjs.org/
+- Leaflet https://leafletjs.com/
+- Ruby on Rails https://rubyonrails.org/
 
 ### Installation
 Clone this repo and the backend which can be found (here)[https://github.com/ahkian/flatiron-map-backend]. When starting Flatiron map make sure you start the backend on port 3000. For the frontend run 'npm install && npm start' in your terminal.
