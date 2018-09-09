@@ -10,6 +10,9 @@ Flatiron Map is an interactive map of Flatiron School's Manhattan Campus written
 ### Installation
 Clone this repo and the backend which can be found [here](https://github.com/ahkian/flatiron-map-backend). When starting Flatiron map make sure you start the backend on port 3000. For the frontend run 'npm install && npm start' in your terminal.
 
+### Demo
+[![FlatIron Map Video](https://img.youtube.com/vi/oAhP92aJUB0/0.jpg)](https://youtu.be/oAhP92aJUB0)
+
 ### License
 Copyright 2018 Daniel Brazel, Arthur Lurye
 
